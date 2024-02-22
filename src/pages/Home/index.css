@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    padding: 5rem;
+}
+.header_container{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    justify-content: space-between;
+}

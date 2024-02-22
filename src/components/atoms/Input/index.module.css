@@ -1,0 +1,17 @@
+.container {
+    border: 3px solid black;
+    background-color: rgb(80, 100, 104);
+    color: white;
+    height: 40px;
+    width: 100%;
+    filter: drop-shadow(7px 5px 0px rgb(179, 91, 60));
+    padding-left: 10px;
+    
+}
+.container::placeholder {
+    color: white;
+}
+.container:focus{
+    border: 3px solid black;
+    outline: none;
+}

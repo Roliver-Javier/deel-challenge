@@ -9,8 +9,33 @@ $ yarn install
 $ yarn start
 ```
 
-## MOCK DATA
+## Mock Data
 the mock data file is in the public directory `public/data/mock.json`
+
+```
+[
+    {
+        "id": "12wdcsdewfd",
+        "label": "Roliver"
+    },
+    {
+        "id": "12wdcsdewfd",
+        "label": "Javier"
+    },
+    {
+        "id": "12wdcsdewfd",
+        "label": "Rodriguez"
+    },
+    {
+        "id": "12wdcsdewfd",
+        "label": "Deel"
+    },
+    {
+        "id": "12wdcsdewfd",
+        "label": "Challenge"
+    }
+]
+```
 
 ###  Autocomplete
 
